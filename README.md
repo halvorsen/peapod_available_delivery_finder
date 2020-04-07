@@ -1,4 +1,4 @@
-Peapod Available Delivery Finder
+Peapod Available Delivery Finder - Selenium
 
 Purpose: Find open slots for peapod delivery and get email notification when they're available. Useful really only when all the slots are full like they are now during coronavirus outbreak.
 
